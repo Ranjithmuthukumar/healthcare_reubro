@@ -1,0 +1,6 @@
+module Pods_Towing {
+  umbrella header "Pods-Towing-umbrella.h"
+
+  export *
+  module * { export * }
+}
